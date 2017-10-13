@@ -1,4 +1,6 @@
 typings
+**/src/**/*.js
+**/src/**/*.map
 **/app/**/*.js
 **/app/**/*.map
 node_modules
